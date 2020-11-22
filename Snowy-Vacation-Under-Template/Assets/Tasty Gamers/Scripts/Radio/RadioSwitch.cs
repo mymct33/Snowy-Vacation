@@ -28,8 +28,31 @@ public class RadioSwitch : MonoBehaviour
         sPlayer.Play();
     }
 
-    private void ToggleUp()
+    public void ToggleUp()
     {
-        
+        ++CurrentSong;
+        if(CurrentSong < Songs.Count)
+        {
+            sPlayer.clip = Songs[CurrentSong];
+        }
+        else
+        {
+            CurrentSong = 0;
+            sPlayer.clip = Songs[0];
+        }
+    }
+
+    public void ToggleDown()
+    {
+        --CurrentSong;
+        if(CurrentSong > 0)
+        {
+            sPlayer.clip = Songs[CurrentSong];
+        }
+        else
+        {
+            CurrentSong = Songs.Count;
+            sPlayer.clip = Songs[Songs.Count];
+        }
     }
 }
