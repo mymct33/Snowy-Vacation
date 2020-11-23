@@ -18,6 +18,7 @@ public class RadioSwitch : MonoBehaviour
             {
                 sPlayer = tChild.GetComponent<AudioSource>();
                 sPlayer.clip = Songs[0];
+                sPlayer.Play();
             }
         }
     }
@@ -25,7 +26,7 @@ public class RadioSwitch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        sPlayer.Play();
+
     }
 
     public void ToggleUp()
@@ -34,28 +35,28 @@ public class RadioSwitch : MonoBehaviour
         if(CurrentSong < Songs.Count)
         {
             sPlayer.clip = Songs[CurrentSong];
+            sPlayer.Play();
         }
         else
         {
             CurrentSong = 0;
             sPlayer.clip = Songs[0];
+            sPlayer.Play();
         }
     }
 
     public void ToggleDown()
     {
         --CurrentSong;
-        if(CurrentSong > 0)
+        if(CurrentSong < 0)
         {
-            sPlayer.Stop();
+            CurrentSong = Songs.Count - 1;
             sPlayer.clip = Songs[CurrentSong];
             sPlayer.Play();
         }
         else
         {
-            sPlayer.Stop();
-            CurrentSong = Songs.Count;
-            sPlayer.clip = Songs[Songs.Count];
+            sPlayer.clip = Songs[CurrentSong];
             sPlayer.Play();
         }
     }
