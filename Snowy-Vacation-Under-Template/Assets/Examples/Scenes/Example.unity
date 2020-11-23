@@ -1614,7 +1614,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1651695324}
-        m_MethodName: ToggleDown
+        m_MethodName: ToggleUp
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1639,8 +1639,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Songs:
-  - {fileID: 8300000, guid: 366bbc0afc29a9f4da402ab9fd1958cf, type: 3}
-  - {fileID: 8300000, guid: 857df87ad0e05cf47aaa81a2e5ae8b6a, type: 3}
+  - {fileID: 8300000, guid: a038e9e32656a4a4480cfa3a9ab79367, type: 3}
+  - {fileID: 8300000, guid: 3abe92d114623e347bc8dcf8fcfe1087, type: 3}
   CurrentSong: 0
 --- !u!65 &1651695325
 BoxCollider:

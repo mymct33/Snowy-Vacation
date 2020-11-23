@@ -47,12 +47,16 @@ public class RadioSwitch : MonoBehaviour
         --CurrentSong;
         if(CurrentSong > 0)
         {
+            sPlayer.Stop();
             sPlayer.clip = Songs[CurrentSong];
+            sPlayer.Play();
         }
         else
         {
+            sPlayer.Stop();
             CurrentSong = Songs.Count;
             sPlayer.clip = Songs[Songs.Count];
+            sPlayer.Play();
         }
     }
 }
