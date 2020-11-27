@@ -27,6 +27,12 @@ MonoBehaviour:
   - __PanelContainer__rootVisualContainer__0834dcda283bec14dac378f115a2b5ca__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
   - __PanelContainer__rootVisualContainer__a0016b963944bd74f847750fe96469be__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
   - __PanelContainer__rootVisualContainer__a0016b963944bd74f847750fe96469be__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__8a19721664ef15748b37d0db598f3a23__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__8a19721664ef15748b37d0db598f3a23__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__cdd77e86327d0da49a017c9c78be4001__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__cdd77e86327d0da49a017c9c78be4001__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__17f8187583f41ce44b0f134c251bca94__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__17f8187583f41ce44b0f134c251bca94__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
   m_Values:
   - '{}'
   - '{}'
@@ -38,7 +44,13 @@ MonoBehaviour:
   - '{}'
   - '{}'
   - '{}'
-  - '{"position":{"x":618.0,"y":411.0,"z":0.0},"scale":{"x":0.6575162410736084,"y":0.6575162410736084,"z":1.0}}'
-  - '{"m_Version":0,"m_SelectedElementsArray":[]}'
   - '{}'
   - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":524.0,"y":502.0,"z":0.0},"scale":{"x":0.6086957454681397,"y":0.6086957454681397,"z":1.0}}'
+  - '{"m_Version":14,"m_SelectedElementsArray":["931ab7b0-0f6f-4b91-b69e-689a861efb1b","aa167fc0-e0a3-4444-85c4-f89578315ac4"]}'

@@ -334,28 +334,28 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="Google.ProtocolBuffers">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/Google.ProtocolBuffers.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="Liminal.Cecil">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/Liminal.Cecil.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/Liminal.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SevenZip">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/SevenZip.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/SevenZip.dll</HintPath>
     </Reference>
     <Reference Include="GVR">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/Core/GVR.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/Core/GVR.dll</HintPath>
     </Reference>
     <Reference Include="Liminal.SDK">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/Core/Liminal.SDK.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/Core/Liminal.SDK.dll</HintPath>
     </Reference>
     <Reference Include="Liminal.SDK.VR.Daydream">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Assemblies/Core/Liminal.SDK.VR.Daydream.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Assemblies/Core/Liminal.SDK.VR.Daydream.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@db934cd4de39b48e525556e22dced62f47c6e740/SDK/Frameworks/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.liminal.sdk@1137893b1a204f58eb98b5583d7d725075fe94a6/SDK/Frameworks/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>D:/Unity/Liminal VR/v9/Snowy-Vacation/Snowy-Vacation-Under-Template/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>

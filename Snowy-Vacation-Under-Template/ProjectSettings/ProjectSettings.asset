@@ -390,6 +390,13 @@ PlayerSettings:
     m_Devices:
     - OpenVR
     - Oculus
+  - m_BuildTarget: Lumin
+    m_Enabled: 1
+    m_Devices:
+    - Lumin
+  - m_BuildTarget: Windows Store Apps
+    m_Enabled: 1
+    m_Devices: []
   m_BuildTargetEnableVuforiaSettings: []
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -664,7 +671,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: LiminalSDK-Template
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: TemplateLimapp
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
